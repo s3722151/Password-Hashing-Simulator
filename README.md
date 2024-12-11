@@ -5,10 +5,12 @@ Due Date: 30th December 2024
 
 System requirements: Eclipse 
 
-Summary
-This project involves creating a Password Hashing Simulator in Java to understand and implement the cryptographic hashing process using SHA-256. It will include user input handling, password hashing, and optional features like salting and password verification. The project is designed to be completed within two weeks, excluding holidays on 25th and 26th December.
+# Summary
+This project involves creating a Password Hashing Simulator in Java to understand and implement the cryptographic hashing process using SHA-256. 
+It will include user input handling, password hashing, and optional features like salting and password verification. 
+The project is designed to be completed within two weeks, excluding holidays on 25th and 26th December.
 
-Step-by-Step Example
+# Step-by-Step Example
 1.User Input:
   The program prompts: Enter your password:
   User types: mypassword123
@@ -30,7 +32,8 @@ Output:
   User enters: mypassword123
   Program re-hashes with the salt and matches it to the stored hash.
   Output: Password Verified!
+  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Log of working on the project 
+# Log of working on the project 
 12/12/2024 
 I just created the repository. Creating the project requirements and cloning to my machine. 
