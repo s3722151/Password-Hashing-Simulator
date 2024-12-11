@@ -12,17 +12,24 @@ The project is designed to be completed within two weeks, excluding holidays on 
 
 # Step-by-Step Example
 1.User Input:
-  The program prompts: Enter your password:
-  User types: mypassword123
-2. Hashing Process:
+
+The program prompts: Enter your password:
+
+User types: mypassword123
+
+2.Hashing Process:
   The program generates a SHA-256 hash:
   f8c3bf243f30b85eeb76d8d8eb03a48e3a6d... (truncated for brevity).
-Output
-  Original Password: mypassword123  
-  Hashed Password: f8c3bf243f30b85eeb76d8d8eb03a48e3a6d...
 
-3. Optional Feature - Salting:
+Output
+
+Original Password: mypassword123  
+Hashed Password: f8c3bf243f30b85eeb76d8d8eb03a48e3a6d...
+
+3.Optional Feature - Salting:
+
 Program generates a random "salt" (e.g., abc123) and appends it to the password before hashing.
+
 Output:
   Salt: abc123  
   Salted Password Hash: d54d7f7c3a8d5c9...
