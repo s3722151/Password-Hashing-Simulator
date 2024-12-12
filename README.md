@@ -43,4 +43,6 @@ Output:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Log of working on the project 
 12/12/2024 
-I just created the repository. Creating the project requirements and cloning to my machine. 
+I just created the repository. Creating the project requirements and cloning to my machine.
+
+ 
