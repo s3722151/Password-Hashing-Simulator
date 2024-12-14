@@ -45,4 +45,35 @@ Output:
 12/12/2024 
 I just created the repository. Creating the project requirements and cloning to my machine.
 
- 
+14/12/2024
+Had to fix issue of creating java project within the cloned folder. 
+Steps to Fix the Issue
+	1. Close the Existing Project in Eclipse
+	In Eclipse, go to the Project Explorer or Package Explorer view.
+	Check if there is already a project named Password-Hashing-Simulator listed.
+	Right-click the project and select Close Project (if it's open). This prevents conflicts 	while re-importing the project.
+	2. Re-import the Project
+	Go to File > Import > Existing Projects into Workspace.
+	Select the root directory as the location of your cloned Password-Hashing-Simulator folder.
+	Ensure the project Password-Hashing-Simulator is selected in the list.
+	Check the option Copy projects into workspace if you want Eclipse to manage a copy of the 	project instead of modifying the original folder.
+	Click Finish.
+3. Fix the .gitignore and .project Files
+	Open the .gitignore file in the cloned folder and ensure it excludes only the bin/ folder 	(as specified: {/bin/}). No changes are needed here unless the folder is misconfigured.
+	Review the .project file content. The file you posted looks correct and defines this 	folder as a Java project. Eclipse should recognize it automatically.
+	4. Verify and Configure the Build Path
+	After importing the project:
+	Right-click the project in the Project Explorer.
+	Select Build Path > Configure Build Path.
+	Check the following:
+	A JRE System Library is listed under the Libraries tab. If not, add it by clicking Add 	Library > JRE System Library.
+	The Source tab should include a source folder (e.g., src).
+	Click Apply and Close.
+	5. Clean and Build the Project
+	Go to Project > Clean in the Eclipse menu bar.
+	Select the Password-Hashing-Simulator project and clean it.
+	Eclipse will rebuild the project automatically.
+	6. Run the Project
+	Ensure that the folder has a source folder (e.g., src) containing your Java files.
+	Right-click a Java file with a main method.
+	Select Run As > Java Application.
