@@ -7,7 +7,9 @@ public class main {
 		// TODO Auto-generated method stub
 	
 		//Phase 1:User input
+		Scanner passwordObject = new Scanner(System.in);
 		System.out.println("Please input your password here");
+		String passwordInput = passwordObject.nextLine(); //Read user input
 		
 		//Phase 2: Generate Hash
 		
