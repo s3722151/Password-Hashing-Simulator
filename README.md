@@ -81,4 +81,8 @@ Steps to Fix the Issue
 Also learnt to close a project in Project Explorer.
 
 15/12/2024
-Just gonna make some comments in main file
+Just gonna make some comments in main file.
+
+16/12/2024
+Added some clarification to documentation doc. 
+
