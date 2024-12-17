@@ -19,7 +19,8 @@ public class main {
         System.out.println("SHA-256 Hash: " + hash);
 		
 		//Optional tasks here
-		//System.out.println("Optional code is here");
+		//Look at what is a rainbow table attack
+        //What are 'random salts'
 	}
 	
 //INSERT METHODS HERE
