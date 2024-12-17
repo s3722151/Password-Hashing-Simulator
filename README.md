@@ -86,3 +86,5 @@ Just gonna make some comments in main file.
 16/12/2024
 Added some clarification to documentation doc. 
 
+17/12/2024
+Looked at some references. Looked at the code and added the method to hash. 
