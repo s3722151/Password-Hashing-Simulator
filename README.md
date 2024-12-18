@@ -81,10 +81,17 @@ Steps to Fix the Issue
 Also learnt to close a project in Project Explorer.
 
 15/12/2024
+
 Just gonna make some comments in main file.
 
 16/12/2024
+
 Added some clarification to documentation doc. 
 
 17/12/2024
+
 Looked at some references. Looked at the code and added the method to hash. 
+
+18/12/2024
+
+Pretty exhausted. Just updated the README file.
