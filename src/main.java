@@ -52,12 +52,22 @@ https://www.w3schools.com/java/tryjava.asp?filename=demo_ref_string_hashcode
 
 What is bytes
 https://www.youtube.com/watch?v=Dnd28lQHquU
-	What is the number system: https://www.youtube.com/watch?v=FFDMzbrEXaE
 
-What is SHA-256
+How does binary work
+https://www.youtube.com/watch?v=FrsgHUSZ_pc
+	Convert binary to decimal
+	https://www.youtube.com/watch?v=VLflTjd3lWA
+
+What is the number system
+https://www.youtube.com/watch?v=FFDMzbrEXaE
+
+What is SHA-256 - used method
 https://medium.com/@AlexanderObregon/what-is-sha-256-hashing-in-java-0d46dfb83888
 
 How to hash
 https://www.geeksforgeeks.org/sha-256-hash-in-java/
 
+What is message digest
+https://www.youtube.com/watch?v=y07_VBbsu-o
+https://www.geeksforgeeks.org/what-is-message-and-message-digest-in-cryptography/
  */

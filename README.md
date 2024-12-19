@@ -95,3 +95,6 @@ Looked at some references. Looked at the code and added the method to hash.
 18/12/2024
 
 Pretty exhausted. Just updated the README file.
+
+19/12/2024
+Revised the number systems, binary to decimal conversions and what is message digest.
