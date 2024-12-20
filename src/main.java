@@ -19,8 +19,8 @@ public class main {
         System.out.println("SHA-256 Hash: " + hash);
 		
 		//Optional tasks here
-		//Look at what is a rainbow table attack
-        //What are 'random salts'
+        //Look at generating: Cryptographically secure pseudorandom number generator
+        //Code to use: https://www.geeksforgeeks.org/random-vs-secure-random-numbers-java/
 	}
 	
 //INSERT METHODS HERE
@@ -70,4 +70,10 @@ https://www.geeksforgeeks.org/sha-256-hash-in-java/
 What is message digest
 https://www.youtube.com/watch?v=y07_VBbsu-o
 https://www.geeksforgeeks.org/what-is-message-and-message-digest-in-cryptography/
+
+What is salting
+https://en.wikipedia.org/wiki/Salt_(cryptography)
+
+Why we hash - to avoid rainbow table attacks
+https://www.beyondidentity.com/glossary/rainbow-table-attack
  */
